@@ -8,6 +8,6 @@ Auto copy function prototypes from a C file into a header file! 🎉
 ## Install 🛠️
 
 ```bash
-sudo apt install ./alxauto.deb
-alxauto
+$ sudo apt install ./alxauto.deb
+$ alxauto
 alxauto -D <directory_path> -H <header_file_path>
