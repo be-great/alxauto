@@ -4,6 +4,7 @@
 ![second](https://github.com/be-great/alxauto/assets/78013422/20ec69a3-1e2f-48b5-b6b6-9f4efdb262e4)
 
 # Install
+
   $ sudo apt install ./alxauto.deb
   $ alxauto
   Usage: %s -D <directory_path> -H <header_file_path>\n
