@@ -10,4 +10,4 @@ Auto copy function prototypes from a C file into a header file! 🎉
 ```bash
 $ sudo apt install ./alxauto.deb
 $ alxauto
-alxauto -D <directory_path> -H <header_file_path>
+Usage: alxauto -D <directory_path> -H <header_file_path>
